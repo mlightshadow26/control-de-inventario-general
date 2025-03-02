@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Algo más",
+        "cantidad": 200,
+        "id": "001"
+    },
+    {
+        "nombre": "otro Item",
+        "cantidad": 293,
+        "id": "002"
+    }
+]
