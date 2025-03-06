@@ -8,5 +8,15 @@
         "nombre": "otro Item",
         "cantidad": 293,
         "id": "002"
+    },
+    {
+        "nombre": "Tijeras",
+        "cantidad": 20,
+        "id": "009"
+    },
+    {
+        "nombre": "Zapatos",
+        "cantidad": 2,
+        "id": "0091"
     }
 ]
